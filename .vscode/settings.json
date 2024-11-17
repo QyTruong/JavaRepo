@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["BTTH1", "BTTH2", "TEST"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
