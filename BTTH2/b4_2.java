@@ -1,6 +1,6 @@
 import lib2.PhanSo;
 
-public class b4_1 {
+public class b4_2 {
     public static void main(String[] args) {
         PhanSo ps1 = new PhanSo(1,2);
         PhanSo ps2 = new PhanSo(1,4);
