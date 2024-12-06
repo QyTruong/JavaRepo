@@ -1,0 +1,7 @@
+for (NhanSu x : L){
+    if( x instranceof SinhVien)
+        ((SinhVien)x).xemtt();
+    if ( x instranceof GV)
+        ((GV)x).xemtt();
+}
+

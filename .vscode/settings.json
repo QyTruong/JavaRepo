@@ -1,5 +1,5 @@
 {
-    "java.project.sourcePaths": ["BTTH1", "BTTH2", "TEST"],
+    "java.project.sourcePaths": ["BTTH1", "BTTH2", "BTTH3", "TEST", "LyThuyetKeThua"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
