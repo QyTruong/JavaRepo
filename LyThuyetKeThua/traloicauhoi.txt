@@ -1,8 +1,0 @@
-
-
-Câu 48
--> A, ERROR
-Câu 49
--> A, DONE, lỗi ngoại lệ java.lang.ArithmeticException
-Câu 50-51
--> Finally, DivideByZero
